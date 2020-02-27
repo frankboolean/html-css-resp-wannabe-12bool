@@ -20,8 +20,15 @@ img{
 .ciao{
   height: 300px;
   border: 1px solid black;
+
 }
 
-div{
+.debug {
   border: 1px solid black;
+
+}
+
+
+.mia{
+  width: 20%;
 }
