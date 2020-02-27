@@ -19,6 +19,8 @@
   display: table;
   clear: both;
 }
+
+
 /* regole di colonne */
 
 
@@ -192,9 +194,7 @@
   /* smartphone version */
   @media screen and (max-width:767px){
 
-    #wrapper{
-      width: 100%;
-    }
+    
 
     .col-xs-1 {
       width: calc((100% / 12) * 1);
